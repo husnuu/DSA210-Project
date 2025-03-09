@@ -27,7 +27,7 @@ The project will involve multiple stages of data processing and analysis:
 The project aims to answer the following key questions:
 
 - How do seasonal patterns and public holidays affect flight occupancy rates?
-- What is the correlation between economic conditions (e.g., inflation, fuel prices, exchange rates) and airline seat utilization?
+- What is the correlation between economic conditions (inflation, fuel prices, exchange rates) and airline seat utilization?
 - How did the COVID-19 pandemic impact airline occupancy, and are there lingering effects in post-pandemic travel trends?
 - Can machine learning models accurately predict future flight occupancy based on past trends and external factors?
 
@@ -36,7 +36,7 @@ The project aims to answer the following key questions:
 While this project seeks to provide meaningful insights, certain limitations must be acknowledged:
 
 - **Data Availability**: Some airline-specific data may not be publicly accessible, requiring estimation techniques or alternative data sources.
-- **External Factors**: Unexpected events (e.g., geopolitical crises, new travel restrictions) may impact airline occupancy in ways that are difficult to model.
+- **External Factors**: Unexpected events (geopolitical crises, new travel restrictions) may impact airline occupancy in ways that are difficult to model.
 - **Model Accuracy**: While machine learning models can make predictions, they rely on the quality and completeness of historical data.
 
 For future improvements, additional data sources such as real-time social media sentiment analysis or customer booking patterns could enhance prediction accuracy.
