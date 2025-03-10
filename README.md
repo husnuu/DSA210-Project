@@ -4,6 +4,19 @@
 
 Air travel demand fluctuates due to various factors, including economic conditions, seasonal trends, holidays, and unexpected events such as the COVID-19 pandemic. Understanding these patterns is essential for airlines to optimize pricing strategies, allocate resources efficiently, and enhance customer experience. This project aims to analyze historical flight occupancy rates in Turkey and develop predictive models to forecast future occupancy trends. By integrating economic indicators, fuel prices, holidays, and external disruptions, the project seeks to provide valuable insights into passenger load factors and their determining factors.
 
+## Objectives:
+
+Analyze Historical Flight Occupancy Trends: Examine past flight occupancy rates in Turkey to identify patterns and fluctuations over time.​
+
+Assess the Impact of Economic Indicators: Evaluate how factors such as fuel prices, inflation rates, and currency exchange fluctuations influence air travel demand and seat occupancy.​
+
+Evaluate the Effects of External Disruptions: Investigate the impact of events like the COVID-19 pandemic on passenger load factors and identify any lasting effects on travel behavior.​
+
+Develop Predictive Models: Create machine learning models that forecast future flight occupancy rates based on historical data and identified influencing factors.​
+
+Provide Strategic Insights: Offer actionable recommendations for airlines to optimize pricing strategies, resource allocation, and customer experience based on predictive insights.​
+
+
 ## Data Source
 
 The data for this project will be collected from multiple sources to ensure comprehensive analysis:
@@ -30,6 +43,7 @@ The project aims to answer the following key questions:
 - What is the correlation between economic conditions (inflation, fuel prices, exchange rates) and airline seat utilization?
 - How did the COVID-19 pandemic impact airline occupancy, and are there lingering effects in post-pandemic travel trends?
 - Can machine learning models accurately predict future flight occupancy based on past trends and external factors?
+- How can airlines leverage these predictive insights to enhance pricing strategies, optimize resource allocation, and improve overall customer satisfaction?
 
 ## Limitations and Future Work
 
