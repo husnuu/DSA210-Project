@@ -1,4 +1,4 @@
-# Predicting Airline Seat Occupancy in Turkey
+ # Predicting Airline Seat Occupancy in Turkey
 ## Motivation
 Air travel demand fluctuates due to various factors, including economic conditions, seasonal trends, holidays, and unexpected events such as the COVID-19 pandemic. Understanding these patterns is essential for airlines to optimize pricing strategies, allocate resources efficiently, and enhance customer experience. This project aims to analyze historical flight occupancy rates in Turkey and develop predictive models to forecast future occupancy trends. By integrating economic indicators, fuel prices, holidays, and external disruptions, the project seeks to provide valuable insights into passenger load factors and their determining factors.
 ## Objectives
@@ -42,4 +42,4 @@ While this project seeks to provide meaningful insights, certain limitations mus
 - **External Factors**: Unexpected events (geopolitical crises, new travel restrictions) may impact airline occupancy in ways that are difficult to model.
 - **Model Accuracy**: While machine learning models can make predictions, they rely on the quality and completeness of historical data.
 For future improvements, additional data sources such as real-time social media sentiment analysis or customer booking behavior could enhance prediction accuracy.
-![image](https://github.com/user-attachments/assets/6ff03608-e5e9-4ac6-819c-6b181cad30c3)
+
